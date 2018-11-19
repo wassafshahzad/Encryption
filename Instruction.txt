@@ -1,0 +1,17 @@
+Run "Main.py" from anaconda or command promt or IDLE
+
+Please enter the path of files  with \\ or /
+
+Include the extension of Image for example 
+"Input.png"
+
+Use png images for encryption
+
+The encrypted image is saved in the same folder as Main.py
+
+The rsa public key is saved in the same folder as Main.py
+
+U can use any name for both encrypted file and decrypted file 
+
+Sample Image and file is included in the code
+
